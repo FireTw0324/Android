@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "247546540320",
+    "project_id": "mapd36-e762a",
+    "storage_bucket": "mapd36-e762a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247546540320:android:0c79c89d8283045e5f2745",
+        "android_client_info": {
+          "package_name": "com.gss.arxan.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247546540320-h6vqnp128do05g2dsd95q4081fg2b907.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4GwDPuMGlwunfUdOMHVr7Be2kobTsTug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247546540320-h6vqnp128do05g2dsd95q4081fg2b907.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "247546540320-6h1lflkqqtn9fkt3ogigacthhbj51852.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "tw.com.qaz1885216.NoteApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
